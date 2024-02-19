@@ -1,0 +1,107 @@
+
+
+
+.nav-link{
+    color: white     !important; /* Custom color for the links */
+}
+
+.nav-link:hover{
+    border-top: solid 1px black;
+    color: gray!important; /* Custom color for the links */
+    transition: 0.3s;
+}
+
+
+.nav-link:focus{
+    border-top: solid 1px black;
+    color: red!important; /* Custom color for the links */
+  
+}
+
+.jaynav{
+    background-image: url(https://th.bing.com/th/id/OIP.mwKBMFyZAYF_ba6Ar6cqTAHaEK?rs=1&pid=ImgDetMain);
+    padding-bottom: 5%;
+
+}
+ 
+.navjay{
+    margin-bottom: 5%;
+    
+}
+.my{
+    color: white !important;
+}
+
+.jayi{
+    color: white !important;
+    background-color: gray;
+}
+    
+.resume{
+    border: solid 1px white;
+    border-radius: 5px;
+    padding: 5px;
+   color: white;
+   text-decoration: none;
+   
+
+}
+
+.resume:hover{
+  color: gray;
+   text-decoration: none;
+border: solid 1.5px lightblue;
+}
+
+
+.para{
+    margin: 3%;
+}
+
+
+.abot{
+    margin-top: 3%;
+}
+
+
+.imgone{
+ border-radius: 10px;
+ box-shadow: 0 4px 6px black;
+
+}
+
+.imgtwo{
+    border-radius: 10px;
+    box-shadow: 0 4px 6px black;
+   
+   }
+
+   .imgtree{
+    border-radius: 10px;
+    height: 150px;
+    max-width: 150px;
+   
+   }
+
+.grad{
+    background-color: gray;
+  
+}
+
+
+.foot{
+    background-color: gray;
+}
+   
+@media only screen and (max-width: 600px) {
+    body {
+        background-image: url();
+    }
+    }
+
+    .header a{
+            position:rel;
+
+    }
+ 
+  
